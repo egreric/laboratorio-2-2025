@@ -8,8 +8,8 @@
 
 # Grupo
 
-- Estudiante 1 (Legajo 1) - cor...@estudiante1.com
-- Estudiante 2 (Legajo 2) - cor...@estudiante2.com
+- Nicholas Peterson (169830) - np@estudiante1.com
+- Eric Rodriguez (118533) - egr@estudiante2.com
 
 # Contexto / Escenario
 
